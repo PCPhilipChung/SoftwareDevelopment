@@ -1,0 +1,1 @@
+What do you want? Speed or simplicity? For speed, go for a loop based approach. For simplicity, go for a one liner RegEx based approach.
